@@ -1,0 +1,36 @@
+.container{
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(183, 194, 186);
+    border-radius: 10px;
+    width: 180px;
+    padding: 5px;
+    box-shadow: 0 0 15px rgb(3, 202, 252);
+    display:inline-flexbox;
+    
+} 
+
+.imagen {
+    width: 95%;
+    border: 2px solid rgb(12, 12, 12);
+    border-radius: 10px;
+}
+
+
+.buttonContainer{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+.buttonContainer button{
+    background-color: rgb(221, 49, 49);
+    color: whitesmoke;
+    border-radius: 3px;
+    border: 1px solid white;
+    
+}
+
+.data{
+    display: flex;
+    justify-content: space-around;
+}

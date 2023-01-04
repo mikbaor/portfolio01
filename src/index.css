@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://www.todofondos.net/wp-content/uploads/7500x4199-Moody-Sad-Rick-y-Morty-Wallpaper-scaled.jpg");
+  background-size: cover;
 }
 
 code {
